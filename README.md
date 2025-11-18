@@ -1,4 +1,4 @@
-# Projeto 3: Biblioteca Triple Peaks
+# Biblioteca Triple Peaks
 
 **vizualizar projeto:** https://rafaguanciale.github.io/web_project_library/
 
